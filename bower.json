@@ -6,7 +6,6 @@
     "eve",
     "**/.*",
     "*.html",
-    "*.json",
     "*.markdown",
     "*.md",
     "copy.js",
